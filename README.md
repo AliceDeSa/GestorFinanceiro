@@ -1,3 +1,5 @@
+# https://alicedesa.github.io/GestorFinanceiro/
+
 # Gestor Financeiro - Astral Money Coach
 
 Um aplicativo completo de gestão financeira pessoal construído com React, TypeScript e Supabase.
@@ -92,3 +94,4 @@ npm update
 ## 📄 Licença
 
 Este projeto é privado e proprietário.
+
